@@ -12,3 +12,5 @@ print('ugly wenwen')
 print('handsome xixi')
 print(100+200)
 print(555+222)
+print(512+327)
+
